@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "404551935023",
+    "firebase_url": "https://coorditots-default-rtdb.firebaseio.com",
+    "project_id": "coorditots",
+    "storage_bucket": "coorditots.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404551935023:android:e2a45179f7674be65752da",
+        "android_client_info": {
+          "package_name": "com.coorditots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404551935023-2qapdpv6na79lqkbpk993818t66k050f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5DIA9kLHZxPY92fLEgHSbFxmk3a49Y4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404551935023-2qapdpv6na79lqkbpk993818t66k050f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
